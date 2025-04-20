@@ -2,8 +2,6 @@
 
 This project presents an **HR Analytics dashboard-style analysis using SQL**, where I solved **10 practical business questions** from an employee dataset. It’s designed to give real-world insights into workforce management, attrition, satisfaction, and departmental patterns.
 
-🔗 **Watch the Full Video Tutorial (32 mins)**: [YouTube Video Link Here]
-
 ---
 
 ## 📁 Dataset
@@ -38,31 +36,6 @@ The dataset contains key HR attributes like:
 ## 🛠️ Tools Used
 
 - ✅ **SQL** (Structured Query Language)
-- ✅ YouTube (for educational video walkthrough)
 - ✅ Excel / CSV (for data input)
 
----
 
-## 🧠 What You'll Learn
-
-- Real-life SQL query applications
-- Group By, Aggregates, and Filtering
-- Business insights from HR Data
-- How to present SQL project work professionally
-
----
-
-## 📺 YouTube Video
-
-🔗 [Watch Full Project on YouTube](https://youtube.com/yourvideolink)
-
----
-
-## 🧾 License
-
-This project is for educational purposes. Feel free to fork, use, and modify it with proper credits. 📚
-
----
-
-**⭐ Don’t forget to star the repo if you find it helpful!**  
-Made with ❤️ by [Md Faiaz Alam]((https://github.com/mdfaiazalam)
