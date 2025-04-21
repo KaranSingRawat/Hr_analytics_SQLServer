@@ -1,4 +1,4 @@
-### 💼 HR Analytics Project using SQL | 10 Real-World Business Questions Solved
+# 💼 HR Analytics Project using SQL | 10 Real-World Business Questions Solved
 
 This project presents an **HR Analytics dashboard-style analysis using SQL**, where I solved **10 practical business questions** from an employee dataset.
 It’s designed to give real-world insights into workforce management, attrition, satisfaction, and departmental patterns.
@@ -37,6 +37,6 @@ The dataset contains key HR attributes like:
 ## 🛠️ Tools Used
 
 - ✅ **SQL** (Structured Query Language)
-- ✅ Excel / CSV (for data input)
+- ✅ **Excel / CSV** (for data input)
 
 
